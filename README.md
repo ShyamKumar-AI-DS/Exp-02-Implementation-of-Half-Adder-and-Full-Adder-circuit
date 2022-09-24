@@ -73,7 +73,7 @@ RTL realization
 ![output](ex02de2.png)
 
 ### TRUTH TABLE:
-![output](ex02de4.png)
+![output](ex02de3.png)
 ### TIMING DIAGRAM:
 ![output](ex2de1.png)
 
